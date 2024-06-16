@@ -8,7 +8,7 @@ Welcome to Five nuker's documentation!
    I'm still working on that docs
 
 
-:doc:`obama`
+:doc:`da`
 
 
 Indices and tables
