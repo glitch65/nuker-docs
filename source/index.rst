@@ -1,19 +1,7 @@
-
-
+======================================
 Welcome to Five nuker's documentation!
 ======================================
 
-.. note::
+:doc:`How to customize the config, and what this or that function means?<config>`
 
-   I'm still working on that docs
-
-
-:doc:`da`
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. image:: da.png
